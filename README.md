@@ -81,7 +81,7 @@ The [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-custo
 
 ## 👤 Author
 
-**Your Name**  
+Thisumi Ranasinghe
 BSc (Hons) Artificial Intelligence and Data Science  
 Informatics Institute of Technology, Sri Lanka  
 Robert Gordon University
