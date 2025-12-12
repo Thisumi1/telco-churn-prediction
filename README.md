@@ -70,14 +70,7 @@ The [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-custo
 - ROC-AUC
 - Confusion Matrix
 
-## 📈 Results
 
-| Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
-|-------|----------|-----------|--------|----------|---------|
-| Decision Tree | - | - | - | - | - |
-| Neural Network | - | - | - | - | - |
-
-*Results will be updated after model training*
 
 ## 👤 Author
 
